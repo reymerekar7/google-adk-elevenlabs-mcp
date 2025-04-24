@@ -20,8 +20,7 @@ The speaker agent connects to the ElevenLabs MCP server via `uvx` to provide tex
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd google-elevnlabs-mcp
+git clone <repo-url>
 ```
 
 2. Create and activate a virtual environment:
