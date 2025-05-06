@@ -72,6 +72,11 @@ google-adk-sample/
 └── requirements.txt        # Project dependencies
 ```
 
+## Demo Video
+
+https://github.com/user-attachments/assets/2120981a-f193-4941-a6d0-4504b0bfb9a6
+
+
 ## Troubleshooting
 
 If you encounter any issues:
